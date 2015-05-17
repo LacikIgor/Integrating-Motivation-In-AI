@@ -1,4 +1,4 @@
-### Integrating motivation in AI systems
+# Integrating motivation in AI systems
 ##  A Computational Model of Intrinsic and Extrinsic Motivation for Decision Making and Action-Selection
 
 This is the source code of my master thesis (finishing cognitive science studies) concerning motivation in artificial intelligent systems. The agent (entity driven by AI) is driven by extrinsic (hunger) and intrinsic (curiosity) needs. By performing actions in the environment, the needs are being satiated or increased. From these responses the agent learns how to select different goals in various scenarios. This is peformed in a web application that enables configuration of a large number of scenarios and agents.
