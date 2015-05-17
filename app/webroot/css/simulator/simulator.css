@@ -1,0 +1,70 @@
+/*
+    #Defines the styles for the simulator
+*/
+/* 
+    Created on : Apr 21, 2014, 10:26:10 AM
+    Author     : Igor Lacik
+*/
+
+#simulator_canvas {
+    border: 1px solid;
+}
+
+#simulator_box {
+    float: left;
+    width: 40%;
+}
+
+#simulator_options {
+    margin-left: 20px;
+    float: left;
+    width: 30%;
+}
+
+#plot_placeholder {
+    float: left;
+    width: 57%;
+    margin-left: 17%;
+    margin-top: 30px;
+}
+
+#time_need_distance_plot {
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+
+#reward_plot {
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+
+#sum_squared_err {
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+
+#edit_toggle {
+    cursor: pointer;
+    float: right;
+    margin: 3px 0px 0px 10px;
+}
+
+#node_type_selector_canvas {
+    cursor: pointer;
+    border: 1px solid;
+}
+
+input[type="radio"] {
+    margin: 3px 5px 0px 0px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+.flot_placeholder {
+    margin: 10px 0 10px 0;
+}
