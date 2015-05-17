@@ -24,9 +24,11 @@ Nevid, J. (2013). Psychology: Concepts and applications (4th ed.). Belmont.
 Oudeyer, P. Y., & Kaplan, F. (2008). How can we define intrinsic motivation. proceedings of the 8th international conference on epigenetic robotics: modelling cognitive development in robotic systems. lund university cognitive science.
 Pileckyte, I., & Takáč, M. (2013). Computational model of intrinsic and extrinsic motivation for decision making and action-selection. Technical report TR-2013-038. Faculty of Mathematics, Physics and Informatics Comenius University, Bratislava.
 
-### [Server side powered by CakePHP v2.2](http://cakephp.org/)
-### [Front end is powered by a combination of pure JavaScript & JQuery] (https://jquery.com/)
-### [Moving charts in the simulator section are powered by Flot Charts] (http://www.flotcharts.org/)
-### [Thanks for sponsoring hosting - AWD Systems] (http://awd.sk/web/src/index.php)
-### [Artificial brain powered by my MLP implementation] (https://github.com/LacikIgor/MultiLayer-Perceptron-JavaScript)
-### [Released application] (http://www.actorcritic.sk)
+
+### Links:
+[Server side powered by CakePHP v2.2](http://cakephp.org/)
+[Front end is powered by a combination of pure JavaScript & JQuery] (https://jquery.com/)
+[Moving charts in the simulator section are powered by Flot Charts] (http://www.flotcharts.org/)
+[Thanks for sponsoring hosting - AWD Systems] (http://awd.sk/web/src/index.php)
+[Artificial brain powered by my MLP implementation] (https://github.com/LacikIgor/MultiLayer-Perceptron-JavaScript)
+[Released application] (http://www.actorcritic.sk)
